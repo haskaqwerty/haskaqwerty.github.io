@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-Some information about you!
+Студентка группы БП-ИВТ 16
 
-### More Information
+### Чем я занята  
 
-A place to include any other types of information that you'd like to include about yourself.
+Делаю блог =)
 
-### Contact me
+### Контактная информация
 
-[email@domain.com](mailto:email@domain.com)
+[haskqwerty@gmail.com](mailto:email@domain.com)
