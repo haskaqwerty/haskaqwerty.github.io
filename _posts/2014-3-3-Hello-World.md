@@ -7,5 +7,6 @@ title: Первый блог обо мне)
 
 Пример
 ![_config.yml]({{ site.baseurl }}/images/post1.jpg)
+![_config.yml]({{ site.baseurl }}/images/post1.jpg)
 
 Здесь могла бы быть моя информация и/или картинка
